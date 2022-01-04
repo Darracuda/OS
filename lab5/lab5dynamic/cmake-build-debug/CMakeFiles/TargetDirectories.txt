@@ -1,0 +1,3 @@
+/Users/d.kolpakova/CLionProjects/os/lab5dynamic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/d.kolpakova/CLionProjects/os/lab5dynamic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/d.kolpakova/CLionProjects/os/lab5dynamic/cmake-build-debug/CMakeFiles/lab5.dir

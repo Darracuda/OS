@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/d.kolpakova/CLionProjects/os/lab3/cmake-build-debug/Matrix.h
+
+/Users/d.kolpakova/CLionProjects/os/lab3/cmake-build-debug/MatrixCalculator.h
+Matrix.h
+/Users/d.kolpakova/CLionProjects/os/lab3/cmake-build-debug/Matrix.h
+
+/Users/d.kolpakova/CLionProjects/os/lab3/cmake-build-debug/MultiThreadMatrixCalculator.h
+Matrix.h
+/Users/d.kolpakova/CLionProjects/os/lab3/cmake-build-debug/Matrix.h
+
+/Users/d.kolpakova/CLionProjects/os/lab3/cmake-build-debug/TimeMeter.h
+
+/Users/d.kolpakova/CLionProjects/os/lab3/main.cpp
+iostream
+-
+cmake-build-debug/Matrix.h
+/Users/d.kolpakova/CLionProjects/os/lab3/cmake-build-debug/Matrix.h
+cmake-build-debug/MatrixCalculator.h
+/Users/d.kolpakova/CLionProjects/os/lab3/cmake-build-debug/MatrixCalculator.h
+cmake-build-debug/TimeMeter.h
+/Users/d.kolpakova/CLionProjects/os/lab3/cmake-build-debug/TimeMeter.h
+cmake-build-debug/MultiThreadMatrixCalculator.h
+/Users/d.kolpakova/CLionProjects/os/lab3/cmake-build-debug/MultiThreadMatrixCalculator.h
+

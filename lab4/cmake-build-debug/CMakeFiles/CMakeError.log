@@ -1,0 +1,52 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Library/Developer/CommandLineTools/usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+ld: library not found for -lSystem
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Library/Developer/CommandLineTools/usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+ld: library not found for -lSystem
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/d.kolpakova/CLionProjects/os/lab4/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_28139/fast && make: *** No rule to make target `cmTC_28139/fast'.  Stop.
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/d.kolpakova/CLionProjects/os/lab4/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_571d9/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_571d9.dir/build.make CMakeFiles/cmTC_571d9.dir/build
+CMakeFiles/cmTC_571d9.dir/build.make:75: CMakeFiles/cmTC_571d9.dir/depend.make: No such file or directory
+CMakeFiles/cmTC_571d9.dir/build.make:78: CMakeFiles/cmTC_571d9.dir/progress.make: No such file or directory
+CMakeFiles/cmTC_571d9.dir/build.make:81: CMakeFiles/cmTC_571d9.dir/flags.make: No such file or directory
+make[1]: *** No rule to make target `CMakeFiles/cmTC_571d9.dir/flags.make'.  Stop.
+make: *** [cmTC_571d9/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Library/Developer/CommandLineTools/usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+ld: library not found for -lSystem
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+

@@ -1,0 +1,5 @@
+gcc -shared realization1.c -o realization1.so
+gcc -shared realization2.c -o realization2.so
+gcc lab5static.c -o lab5 -L. realization1.so
+(gcc lab5static.c -o lab5 -L. realization2.so)
+

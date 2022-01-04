@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/d.kolpakova/CLionProjects/os/lab5dynamic/lab5dynamic.c
+stdio.h
+-
+dlfcn.h
+-
+stdlib.h
+-
+
+/Users/d.kolpakova/CLionProjects/os/lab5dynamic/realization1.c
+math.h
+-
+
+/Users/d.kolpakova/CLionProjects/os/lab5dynamic/realization2.c
+math.h
+-
+

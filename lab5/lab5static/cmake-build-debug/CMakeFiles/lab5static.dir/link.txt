@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/lab5static.dir/lab5static.c.o CMakeFiles/lab5static.dir/realization1.c.o CMakeFiles/lab5static.dir/realization2.c.o  -o lab5static 

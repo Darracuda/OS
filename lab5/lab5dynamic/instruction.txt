@@ -1,0 +1,3 @@
+gcc -shared realization2.c -o realization2.so
+gcc -shared realization1.c -o realization1.so
+gcc lab5dynamic.c -o lab5
