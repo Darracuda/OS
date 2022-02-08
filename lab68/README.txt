@@ -1,2 +1,0 @@
-g++ -std=c++17 main.cpp TopNode.cpp execute.cpp IpPortDealer.cpp ZmqStream.cpp -lzmq -o main -I ~/cppzmq -L /usr/local/Cellar/zeromq/4.3.4/lib
-g++ -std=c++17 node.cpp WorkingNode.cpp execute.cpp ZmqStream.cpp -lzmq -o node -I ~/cppzmq -L /usr/local/Cellar/zeromq/4.3.4/lib
